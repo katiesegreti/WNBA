@@ -24,10 +24,13 @@ function(input, output, session) {
   #get players on selected team
   selected_team <- reactive({
     req(input$team_selector)
-    wnba_today %>% 
-    filter(tm == input$team_selector,
-           season == "2020*") %>%
+    wnba_bio_2021 %>%
+      filter(team == input$team_selector) %>%
       select(player, pos, dob, height, weight, college)
+    # wnba_today %>% 
+    # filter(tm == input$team_selector,
+    #        season == "2020") %>%
+    #   select(player, pos, dob, height, weight, college)
   })
   #long team name
   selected_team_fullname <- reactive({
@@ -104,9 +107,9 @@ function(input, output, session) {
   })
   selected_bio <- reactive({
     req(selected_name())
-    wnba_today %>%
-      filter(player == selected_name() & season == "2020*") %>%
-      select(player, tm, pos, height, weight, dob, college)
+    wnba_bio_2021 %>%
+      filter(player == selected_name()) %>%
+      select(player, team, pos, height, weight, dob, college)
   })
   
   #get stats/history for selected player
@@ -116,7 +119,8 @@ function(input, output, session) {
       filter(player == selected_name()) %>%
       select(season, tm, g, gs, avg_mp, avg_fg, avg_fga, fg_percent, avg_3p, avg_3pa, x3p_percent, 
              avg_2p, avg_2pa, x2p_percent, avg_ft, avg_fta, ft_percent, avg_orb, avg_trb, avg_ast, 
-             avg_stl, avg_blk, avg_tov, avg_pf, avg_pts) 
+             avg_stl, avg_blk, avg_tov, avg_pf, avg_pts) %>%
+      arrange(desc(season))
   })
   
   #bio details

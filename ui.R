@@ -5,9 +5,6 @@ ui <- fluidPage(
   headerPanel("WNBA players"),
   p("Let's check out some awesome WNBA players"),
   
-  
-  
-  
   # team filter
   fluidRow(
     column(
@@ -24,16 +21,9 @@ ui <- fluidPage(
   uiOutput("player_bio"),
   
   #testing
-  uiOutput("testing"),
-  #message to select a player
-  #textOutput("player_selection"),
-  #team table
-  #reactableOutput("team_table"),
+  #uiOutput("testing"),
   shiny::tags$br(),
+  #player tabs
   uiOutput("player_tabs")
-  
-  
-  
-  
-  
+
 )

@@ -20,6 +20,8 @@ library(extrafont)
 ### read in bio details
 wnba_bio_2020 <- read_csv("https://raw.githubusercontent.com/katiesegreti/WNBA/master/wnba_2020_bio.csv") %>% unique()
 
+wnba_bio_2021 <- read_csv("https://raw.githubusercontent.com/katiesegreti/WNBA/master/wnba_bios_2021.csv") %>% unique()
+
 ### read in history
 wnba_history <- read_csv("https://raw.githubusercontent.com/katiesegreti/WNBA/master/WNBA_player_historical.csv")
 
@@ -59,9 +61,13 @@ clean_season <- function(df, season) {
     )
 }
 
+######################################################
+###############CONSOLODATE THE NUMBER OF DATASETS!!!!!
+######################################################
+
 # get the current 2020 stats 
 unclean_2020 <- WNBAPerGameStatistics(season = 2020)
-player_stats_2020 <- clean_season(unclean_2020, "2020*")
+player_stats_2020 <- clean_season(unclean_2020, "2020")
 
 #combine today's 2020 stats with history (also combine season and team into a column for chart making)
 current_stats <- rbind(wnba_history, player_stats_2020) #%>%
@@ -75,15 +81,20 @@ wnba_today1 <- wnba_today %>%
   mutate(season_team = paste0(season, " ", tm))
 
 #filter to TOT for players on >1 team in 2020
-player_counts <- wnba_today %>% filter(season == "2020*") %>%
+player_counts <- wnba_today %>% filter(season == "2020") %>%
   count(player)
 
 #filter to "TOT" for players who were on more than one team
 players_2020 <- wnba_today %>% 
-  filter(season == "2020*") %>%
+  filter(season == "2020") %>%
   left_join(player_counts) %>%
   filter(n == 1 | tm == "TOT") %>%
   mutate(hilite = 0)
+
+players_2020a <- players_2020 %>% left_join(wnba_bio_2021, by = "player") %>% 
+  mutate(tm = if_else(!is.na(team), team, tm)) %>%
+  select(-team)
+  
 
 # wnba team colors
 ATL <- "#C8102E"
@@ -285,7 +296,7 @@ steal_chart <-  function(player_name) {
 
 #team comparison chart for pts
 team_compare_player_pts <- function(player_name, team, team_fullname) {
-  df <- wnba_today %>% filter(tm == team & season == "2020*") %>%
+  df <- players_2020a %>% filter(tm == team & season == "2020") %>%
     mutate(hilite = if_else(player == player_name, 1, 0)) %>%
     mutate(hilite = as.factor(hilite))
   max_value <- max(df$avg_pts)
@@ -320,8 +331,8 @@ league_compare_player_pts <- function(player_name) {
 
 #team comparison chart for fg%
 team_compare_player_fg <- function(player_name, team, team_fullname) {
-  wnba_today %>%
-    filter(tm == team & season == "2020*") %>%
+  players_2020a %>%
+    filter(tm == team & season == "2020") %>%
     mutate(hilite = if_else(player == player_name, 1, 0)) %>%
     mutate(hilite = as.factor(hilite)) %>%
     ggplot(aes(x = reorder(player, fg_percent), y = fg_percent, fill = hilite)) +
@@ -356,8 +367,8 @@ league_compare_player_fg <- function(player_name) {
 }
 #team comparison chart for 3p%
 team_compare_player_3p <- function(player_name, team, team_fullname) {
-  wnba_today %>%
-    filter(tm == team & season == "2020*") %>%
+  players_2020a %>%
+    filter(tm == team & season == "2020") %>%
     mutate(hilite = if_else(player == player_name, 1, 0)) %>%
     mutate(hilite = as.factor(hilite)) %>%
     ggplot(aes(x = reorder(player, x3p_percent), y = x3p_percent, fill = hilite)) +
@@ -392,8 +403,8 @@ league_compare_player_3p <- function(player_name) {
 
 #team comparison for rebounds
 team_compare_player_rebounds <- function(player_name, team, team_fullname) {
-  wnba_today %>% 
-    filter(tm == team & season == "2020*") %>%
+  players_2020a %>% 
+    filter(tm == team & season == "2020") %>%
     mutate(hilite = if_else(player == player_name, 1, 0)) %>%
     mutate(hilite = as.factor(hilite)) %>%
     mutate(rebs = avg_orb + avg_trb) %>%
@@ -427,8 +438,8 @@ league_compare_player_rebounds <- function(player_name) {
 }
 #team comparison chart for assists
 team_compare_player_assists <- function(player_name, team, team_fullname) {
-  wnba_today %>%
-    filter(tm == team & season == "2020*") %>%
+  players_2020a %>%
+    filter(tm == team & season == "2020") %>%
     mutate(hilite = if_else(player == player_name, 1, 0)) %>%
     mutate(hilite = as.factor(hilite)) %>%
     ggplot(aes(x = reorder(player, avg_ast), y = avg_ast, fill = hilite)) +
@@ -460,8 +471,8 @@ league_compare_player_assists <- function(player_name) {
 }
 #team comparison chart for blocks
 team_compare_player_blocks <- function(player_name, team, team_fullname) {
-  wnba_today %>%
-    filter(tm == team & season == "2020*") %>%
+  players_2020a %>%
+    filter(tm == team & season == "2020") %>%
     mutate(hilite = if_else(player == player_name, 1, 0)) %>%
     mutate(hilite = as.factor(hilite)) %>%
     ggplot(aes(x = reorder(player, avg_blk), y = avg_blk, fill = hilite)) +
@@ -493,8 +504,8 @@ league_compare_player_blocks <- function(player_name) {
 }
 #team comparison chart for steals
 team_compare_player_steals <- function(player_name, team, team_fullname) {
-  wnba_today %>%
-    filter(tm == team & season == "2020*") %>%
+  players_2020a %>%
+    filter(tm == team & season == "2020") %>%
     mutate(hilite = if_else(player == player_name, 1, 0)) %>%
     mutate(hilite = as.factor(hilite)) %>%
     ggplot(aes(x = reorder(player, avg_stl), y = avg_stl, fill = hilite)) +
