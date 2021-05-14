@@ -1,148 +1,149 @@
 player,snake_name,player_id,team,pos,dob,height,weight,college
-Natalie Achonwa,natalie-achonwa,203831,MIN,F,11/22/1992,6-3in,190,Notre Dame/Canada
-Jaylyn Agnew,jaylyn-agnew,1630153,ATL,NA,7/21/1997,5-11in,149,Creighton/USA
-Bella Alarie,bella-alarie,1630093,DAL,NA,4/23/1998,6-4in,NA,Princeton/USA
-Kayla Alexander,kayla-alexander,203405,MIN,C,1/5/1991,6-4in,186,Syracuse/Canada
-Julie Allemand,julie-allemand,1627700,IND,NA,7/7/1996,5-8in,147,/Belgium
-Lindsay Allen,lindsay-allen,1628263,IND,G,3/20/1995,5-8in,144,Notre Dame/USA
-Kristine Anigwe,kristine-anigwe,1629485,LAS,F-C,3/31/1997,6-4in,200,California/USA
-Ariel Atkins,ariel-atkins,1628878,WAS,G,7/30/1996,5-8in,167,Texas/USA
-Seimone Augustus,seimone-augustus,200671,LAS,G-F,4/30/1984,6-0in,174,Louisiana State/USA
-Rachel Banham,rachel-banham,1627671,MIN,G,7/15/1993,5-9in,172,Minnesota/USA
 Monique Billings,monique-billings,1628881,ATL,F,5/2/1996,6-4in,192,UCLA/USA
-Sue Bird,sue-bird,100720,SEA,G,10/16/1980,5-9in,150,Connecticut/USA
-DeWanna Bonner,dewanna-bonner,201886,CON,F-G,8/21/1987,6-4in,143,Auburn/USA
-Brittany Brewer,brittany-brewer,1630095,ATL,NA,11/6/1997,6-5in,182,Texas Tech/USA
-Kalani Brown,kalani-brown,1629480,ATL,C,3/21/1997,6-7in,245,Baylor/USA
-Lexie Brown,lexie-brown,1628882,MIN,G,10/27/1994,5-9in,160,Duke/USA
-Cierra Burdick,cierra-burdick,204332,LVA,F,9/30/1993,6-2in,172,Tennessee/USA
-Kennedy Burke,kennedy-burke,1629568,IND,G,2/14/1997,NA,NA,UCLA/USA
-Liz Cambage,liz-cambage,202633,LVA,C,8/18/1991,6-8in,216,Bulleen/Australia
+Kalani Brown,kalani-brown,1629480,ATL,C,3/21/1997,6-7in,245,BAYLOR/USA
+Chennedy Carter,chennedy-carter,1630150,ATL,G,11/14/1998,5-9in,143,TEXAS A&M/USA
+Tianna Hawkins,tianna-hawkins,203403,ATL,F,3/2/1991,6-3in,186,MARYLAND/USA
+Cheyenne Parker,cheyenne-parker,204323,ATL,F,8/22/1992,6-4in,193,MIDDLE TENNESSEE/USA
+Odyssey Sims,odyssey-sims,203824,ATL,G,7/13/1992,5-8in,163,BAYLOR/USA
+Shekinna Stricklen,shekinna-stricklen,203015,ATL,F,7/30/1990,6-2in,230,TENNESSEE/USA
+Courtney Williams,courtney-williams,1627675,ATL,G,5/11/1994,5-8in,133,SOUTH FLORIDA/USA
+Elizabeth Williams,elizabeth-williams,204322,ATL,C-F,6/23/1993,6-3in,200,DUKE/USA
+Kahleah Copper,kahleah-copper,1627674,CHI,G-F,8/28/1994,6-1in,155,RUTGERS/USA
+Diamond DeShields,diamond-deshields,1628890,CHI,G,3/5/1995,6-1in,163,TENNESSEE/USA
+Stefanie Dolson,stefanie-dolson,203828,CHI,C,1/8/1992,6-5in,231,CONNECTICUT/USA
+Ruthy Hebard,ruthy-hebard,1630113,CHI,F,4/28/1998,6-4in,NA,OREGON/USA
+Candace Parker,candace-parker,201496,CHI,F-C,4/19/1986,6-4in,175,TENNESSEE/USA
+Allie Quigley,allie-quigley,201516,CHI,G,6/20/1986,5-10in,140,DEPAUL/USA
+Azura Stevens,azura-stevens,1628922,CHI,F-C,2/1/1996,6-6in,180,CONNECTICUT/USA
+Courtney Vandersloot,courtney-vandersloot,202664,CHI,G,2/8/1989,5-8in,145,GONZAGA/USA
+Bella Alarie,bella-alarie,1630093,DAL,C-F,4/23/1998,6-4in,NA,PRINCETON/USA
+Allisha Gray,allisha-gray,1628277,DAL,G,1/12/1995,6-0in,167,SOUTH CAROLINA/USA
+Tyasha Harris,tyasha-harris,1630112,DAL,G,5/1/1998,5-10in,NA,SOUTH CAROLINA/USA
+Isabelle Harrison,isabelle-harrison,204330,DAL,F,9/27/1993,6-3in,183,TENNESSEE/USA
+Moriah Jefferson,moriah-jefferson,1627669,DAL,G,3/8/1994,5-6in,123,CONNECTICUT/USA
+Marina Mabrey,marina-mabrey,1629497,DAL,G,9/14/1996,5-11in,170,NOTRE DAME/USA
+Arike Ogunbowale,arike-ogunbowale,1629481,DAL,G,3/2/1997,5-8in,165,NOTRE DAME/USA
+Satou Sabally,satou-sabally,1630149,DAL,F,4/25/1998,6-4in,NA,OREGON/USA
+Kayla Thornton,kayla-thornton,203866,DAL,F,10/20/1992,6-1in,190,TEXAS-EL PASO/USA
+DeWanna Bonner,dewanna-bonner,201886,CON,F-G,8/21/1987,6-4in,143,AUBURN/USA
+Kaila Charles,kaila-charles,1630097,CON,G-F,3/23/1998,6-1in,167,MARYLAND/USA
+Natisha Hiedeman,natisha-hiedeman,1629567,CON,G,2/10/1997,5-8in,135,MARQUETTE/USA
+Briann January,briann-january,201896,CON,G,1/11/1987,5-8in,144,ARIZONA STATE/USA
+Brionna Jones,brionna-jones,1628280,CON,F,12/18/1995,6-3in,230,MARYLAND/USA
+Beatrice Mompremier,beatrice-mompremier,1629492,CON,F,8/8/1996,6-4in,190,MIAMI/USA
+Alyssa Thomas,alyssa-thomas,203826,CON,F,4/12/1992,6-2in,185,MARYLAND/USA
+Jasmine Thomas,jasmine-thomas,202662,CON,G,9/30/1989,5-9in,143,DUKE/USA
+Lindsay Allen,lindsay-allen,1628263,IND,G,3/20/1995,5-8in,144,NOTRE DAME/USA
+Lauren Cox,lauren-cox,1630100,IND,F,4/20/1998,6-4in,NA,BAYLOR/USA
+Teaira McCowan,teaira-mccowan,1629479,IND,C,9/28/1996,6-7in,NA,MISSISSIPPI STATE/USA
+Tiffany Mitchell,tiffany-mitchell,1627676,IND,G,9/23/1994,5-9in,152,SOUTH CAROLINA/USA
+Kelsey Mitchell,kelsey-mitchell,1628909,IND,G,11/12/1995,5-8in,160,OHIO STATE/USA
+Danielle Robinson,danielle-robinson,202658,IND,G,5/10/1989,5-9in,137,OKLAHOMA/USA
+Victoria Vivians,victoria-vivians,1628927,IND,G,11/17/1994,6-1in,183,MISSISSIPPI STATE/USA
+Liz Cambage,liz-cambage,202633,LVA,C,8/18/1991,6-8in,216,BULLEEN/AUSTRALIA
+Emma Cannon,emma-cannon,1628242,LVA,F,6/1/1989,6-2in,190,FLORIDA SOUTHERN/USA
+Chelsea Gray,chelsea-gray,203833,LVA,G,10/8/1992,5-11in,170,DUKE/USA
+Dearica Hamby,dearica-hamby,204324,LVA,F,11/6/1993,6-3in,189,WAKE FOREST/USA
+Angel McCoughtry,angel-mccoughtry,201881,LVA,F-G,9/10/1986,6-1in,173,LOUISVILLE/USA
+Riquna Williams,riquna-williams,203029,LVA,G,5/28/1990,5-7in,165,MIAMI/USA
+A'ja Wilson,aja-wilson,1628932,LVA,F,8/8/1996,6-4in,195,SOUTH CAROLINA/USA
+Jackie Young,jackie-young,1629498,LVA,G,9/16/1997,6-0in,165,NOTRE DAME/USA
+Nia Coffey,nia-coffey,1628269,LAS,F,6/11/1995,6-1in,182,NORTHWESTERN/USA
+Te'a Cooper,tea-cooper,1630099,LAS,G,4/16/1997,5-8in,160,BAYLOR/USA
+Bria Holmes,bria-holmes,1627678,LAS,G,4/19/1994,6-3in,170,WEST VIRGINIA/USA
+Nneka Ogwumike,nneka-ogwumike,203014,LAS,F,7/2/1990,6-2in,174,STANFORD/USA
+Chiney Ogwumike,chiney-ogwumike,203823,LAS,F-C,3/21/1992,6-4in,173,STANFORD/USA
+Brittney Sykes,brittney-sykes,1628279,LAS,G,2/7/1994,5-9in,154,SYRACUSE/USA
+Erica Wheeler,erica-wheeler,204365,LAS,G,5/2/1991,5-7in,143,RUTGERS/USA
+Natalie Achonwa,natalie-achonwa,203831,MIN,F,11/22/1992,6-3in,190,NOTRE DAME/CANADA
+Rachel Banham,rachel-banham,1627671,MIN,G,7/15/1993,5-9in,172,MINNESOTA/USA
+Bridget Carleton,bridget-carleton,1629524,MIN,F,5/22/1997,6-1in,180,IOWA STATE/CANADA
+Napheesa Collier,napheesa-collier,1629483,MIN,F,9/23/1996,6-1in,181,CONNECTICUT/USA
+Crystal Dangerfield,crystal-dangerfield,1630101,MIN,G,5/11/1998,5-5in,122,CONNECTICUT/USA
+Damiris Dantas,damiris-dantas,203024,MIN,F,11/17/1992,6-3in,201,REAL CELTA VIGO/BRAZIL
+Sylvia Fowles,sylvia-fowles,201480,MIN,C,10/6/1985,6-6in,217,LOUISIANA STATE/USA
+Kayla McBride,kayla-mcbride,203825,MIN,G,6/25/1992,5-10in,174,NOTRE DAME/USA
+Aerial Powers,aerial-powers,1627672,MIN,F-G,1/17/1994,5-9in,159,MICHIGAN STATE/USA
+Layshia Clarendon,layshia-clarendon,203406,NYL,G,5/2/1991,5-9in,158,CALIFORNIA/USA
+Reshanda Gray,reshanda-gray,204334,NYL,F,6/1/1993,6-2in,192,CALIFORNIA/USA
+Natasha Howard,natasha-howard,203827,NYL,F,9/2/1991,6-2in,165,FLORIDA STATE/USA
+Sabrina Ionescu,sabrina-ionescu,1629477,NYL,G,12/6/1997,5-11in,165,OREGON/USA
+Jazmine Jones,jazmine-jones,1630119,NYL,G,10/15/1996,6-0in,160,LOUISVILLE/USA
+Betnijah Laney,betnijah-laney,204335,NYL,G-F,10/29/1993,6-0in,166,RUTGERS/USA
+Leaonna Odom,leaonna-odom,1630127,NYL,F,3/26/1998,6-2in,168,DUKE/USA
+Kylee Shook,kylee-shook,1630131,NYL,F,3/18/1998,6-4in,200,LOUISVILLE/USA
+Kiah Stokes,kiah-stokes,204329,NYL,C,3/30/1993,6-3in,191,CONNECTICUT/USA
+Sami Whitcomb,sami-whitcomb,1628244,NYL,G,7/20/1988,5-10in,145,WASHINGTON/AUSTRALIA
+Jocelyn Willoughby,jocelyn-willoughby,1630139,NYL,F-G,3/25/1998,6-0in,180,VIRGINIA/USA
+Cierra Burdick,cierra-burdick,204332,PHO,F,9/30/1993,6-2in,172,TENNESSEE/USA
+Sophie Cunningham,sophie-cunningham,1629482,PHO,G,8/16/1996,6-1in,170,MISSOURI/USA
+Skylar Diggins-Smith,skylar-diggins-smith,203400,PHO,G,8/2/1990,5-9in,145,NOTRE DAME/USA
+Brittney Griner,brittney-griner,203398,PHO,C,10/18/1990,6-9in,205,BAYLOR/USA
+Bria Hartley,bria-hartley,203829,PHO,G,9/30/1992,5-8in,148,CONNECTICUT/USA
+Kia Nurse,kia-nurse,1628915,PHO,G,2/22/1996,6-0in,168,CONNECTICUT/CANADA
+Shey Peddy,shey-peddy,203035,PHO,G,10/28/1988,5-7in,147,TEMPLE/USA
+Alanna Smith,alanna-smith,1629501,PHO,F,9/10/1996,6-4in,180,STANFORD/AUSTRALIA
+Diana Taurasi,diana-taurasi,100940,PHO,G,6/11/1982,6-0in,163,CONNECTICUT/USA
+Brianna Turner,brianna-turner,1629488,PHO,F,7/5/1996,6-3in,170,NOTRE DAME/USA
+Kia Vaughn,kia-vaughn,201913,PHO,C,1/24/1987,6-4in,205,RUTGERS/USA
+Megan Walker,megan-walker,1630136,PHO,F,11/23/1998,6-1in,175,CONNECTICUT/USA
+Sue Bird,sue-bird,100720,SEA,G,10/16/1980,5-9in,150,CONNECTICUT/USA
+Kennedy Burke,kennedy-burke,1629568,SEA,G,2/14/1997,NA,NA,UCLA/USA
 Jordin Canada,jordin-canada,1628886,SEA,G,8/11/1995,5-6in,135,UCLA/USA
-Emma Cannon,emma-cannon,1628242,LVA,F,6/1/1989,6-2in,190,Florida Southern/USA
-Bridget Carleton,bridget-carleton,1629524,MIN,G,5/22/1997,6-1in,180,Iowa State/Canada
-Essence Carson,essence-carson,201502,CON,G,7/28/1986,6-0in,163,Rutgers/USA
-Chennedy Carter,chennedy-carter,1630150,ATL,NA,11/14/1998,5-9in,143,USA/USA
-Kaila Charles,kaila-charles,1630097,CON,NA,3/23/1998,6-1in,167,Maryland/USA
-Tina Charles,tina-charles,202250,WAS,C,12/5/1988,6-4in,192,Connecticut/USA
-Karima Christmas-Kelly,karima-christmas-kelly,202640,MIN,F-G,9/11/1989,6-0in,209,Duke/USA
-Layshia Clarendon,layshia-clarendon,203406,NYL,G,5/2/1991,5-9in,158,California/USA
-Alysha Clark,alysha-clark,202252,WAS,F,7/7/1987,5-11in,167,Middle Tennessee/USA
-Natasha Cloud,natasha-cloud,204333,WAS,G,2/22/1992,5-9in,160,St. Joseph's (PA)/USA
-Alaina Coates,alaina-coates,1628268,WAS,C,4/7/1995,6-4in,225,South Carolina/USA
-Nia Coffey,nia-coffey,1628269,LAS,F,6/11/1995,6-1in,182,Northwestern/USA
-Napheesa Collier,napheesa-collier,1629483,MIN,F,9/23/1996,6-1in,181,Connecticut/USA
-Sydney Colson,sydney-colson,202641,CHI,G,8/6/1989,5-8in,140,Texas A&M/USA
-Te'a Cooper,tea-cooper,1630099,LAS,NA,4/16/1997,5-8in,160,Baylor/USA
-Kahleah Copper,kahleah-copper,1627674,CHI,G-F,8/28/1994,6-1in,155,Rutgers/USA
-Lauren Cox,lauren-cox,1630100,IND,NA,4/20/1998,6-4in,NA,USA/USA
-Sophie Cunningham,sophie-cunningham,1629482,PHO,G,8/16/1996,6-1in,170,Missouri/USA
-Crystal Dangerfield,crystal-dangerfield,1630101,MIN,NA,5/11/1998,5-5in,122,Connecticut/USA
-Damiris Dantas,damiris-dantas,203024,MIN,F,11/17/1992,6-3in,201,Real Celta Vigo/Brazil
-Kaela Davis,kaela-davis,1628273,ATL,G,3/15/1995,6-2in,170,South Carolina
-Diamond DeShields,diamond-deshields,1628890,CHI,G,3/5/1995,6-1in,163,Tennessee/USA
-Blake Dietrick,blake-dietrick,204355,ATL,G,7/19/1993,5-10in,169,Princeton/USA
-Skylar Diggins-Smith,skylar-diggins-smith,203400,PHO,G,8/2/1990,5-9in,145,Notre Dame/USA
-Stefanie Dolson,stefanie-dolson,203828,CHI,C,1/8/1992,6-5in,231,Connecticut/USA
-Kathleen Doyle,kathleen-doyle,1630104,IND,NA,6/11/1998,5-9in,NA,Iowa/USA
-Candice Dupree,candice-dupree,200676,SEA,F,8/16/1984,6-2in,178,Temple/USA
-Sylvia Fowles,sylvia-fowles,201480,MIN,C,10/6/1985,6-6in,217,Louisiana State/USA
-Jacki Gemelos,jacki-gemelos,203043,WAS,G,11/22/1988,6-0in,165,Southern California/USA
-Allisha Gray,allisha-gray,1628277,DAL,G,1/12/1995,6-0in,167,South Carolina/USA
-Chelsea Gray,chelsea-gray,203833,LVA,G,10/8/1992,5-11in,170,Duke/USA
-Reshanda Gray,reshanda-gray,204334,LAS,F,6/1/1993,6-2in,192,California/USA
-Brittney Griner,brittney-griner,203398,PHO,C,10/18/1990,6-9in,205,Baylor/USA
-Megan Gustafson,megan-gustafson,1629484,DAL,C,12/13/1996,6-3in,195,Iowa/USA
-Dearica Hamby,dearica-hamby,204324,LVA,F,11/6/1993,6-3in,189,Wake Forest/USA
-Isabelle Harrison,isabelle-harrison,204330,DAL,F,9/27/1993,6-3in,183,Tennessee/USA
-Mikiah Herbert Harrigan,mikiah-herbert-harrigan,1630114,SEA,NA,8/21/1998,6-2in,152,South Carolina/USA
-Tyasha Harris,tyasha-harris,1630112,DAL,NA,5/1/1998,5-10in,NA,South Carolina/USA
-Bria Hartley,bria-hartley,203829,PHO,G,9/30/1992,5-8in,148,Connecticut/USA
-Tianna Hawkins,tianna-hawkins,203403,ATL,F,3/2/1991,6-3in,186,Maryland/USA
-Ruthy Hebard,ruthy-hebard,1630113,CHI,NA,4/28/1998,6-4in,NA,Oregon/USA
-Natisha Hiedeman,natisha-hiedeman,1629567,CON,G,2/10/1997,5-8in,135,Marquette/USA
-Myisha Hines-Allen,myisha-hines-allen,1628899,WAS,F,5/30/1996,6-1in,200,Louisville/USA
-Bria Holmes,bria-holmes,1627678,LAS,G,4/19/1994,6-3in,170,West Virginia/USA
-Joyner Holmes,joyner-holmes,1630115,NYL,NA,2/22/1998,6-3in,200,Texas/USA
-Natasha Howard,natasha-howard,203827,NYL,F,9/2/1991,6-2in,165,Florida State/USA
-Megan Huff,megan-huff,1629570,LVA,NA,4/17/1996,6-4in,NA,Utah/USA
-Sabrina Ionescu,sabrina-ionescu,1629477,NYL,NA,12/6/1997,5-11in,165,Oregon/USA
-Briann January,briann-january,201896,CON,G,1/11/1987,5-8in,144,Arizona State/USA
-Moriah Jefferson,moriah-jefferson,1627669,DAL,G,3/8/1994,5-6in,123,Connecticut/USA
-Alisia Jenkins,alisia-jenkins,1627704,PHO,NA,2/21/1994,6-1in,NA,South Florida/USA
-Glory Johnson,glory-johnson,203017,ATL,F,7/27/1990,6-3in,170,Tennessee/USA
-Shenise Johnson,shenise-johnson,203018,MIN,G,12/8/1990,5-11in,168,Miami/USA
-Stella Johnson,stella-johnson,1630118,WAS,NA,7/11/1998,5-10in,158,Rider University/USA
-Alexis Jones,alexis-jones,1628283,ATL,G,5/8/1994,5-9in,167,Baylor/USA
-Brionna Jones,brionna-jones,1628280,CON,F,12/18/1995,6-3in,230,Maryland/USA
-Jazmine Jones,jazmine-jones,1630119,NYL,NA,10/15/1996,6-0in,160,Louisville/USA
-Paris Kea,paris-kea,1629502,NYL,G,4/7/1996,5-9in,142,North Carolina/USA
-Betnijah Laney,betnijah-laney,204335,NYL,G-F,10/29/1993,6-0in,166,Rutgers/USA
-Crystal Langhorne,crystal-langhorne,201518,SEA,F-C,10/27/1986,6-2in,185,Maryland/USA
-Kiara Leslie,kiara-leslie,1629506,WAS,NA,12/6/1995,6-0in,175,North Carolina State/USA
-Jewell Loyd,jewell-loyd,204319,SEA,G,10/5/1993,5-10in,148,Notre Dame/USA
-Marina Mabrey,marina-mabrey,1629497,DAL,G,9/14/1996,5-11in,170,Notre Dame/USA
-Ezi Magbegor,ezi-magbegor,1629496,SEA,NA,8/13/1999,6-4in,176,Australia/Australia
-Kayla McBride,kayla-mcbride,203825,MIN,G,6/25/1992,5-10in,174,Notre Dame/USA
-Erica McCall,erica-mccall,1628286,WAS,F,8/21/1995,6-2in,184,Stanford/USA
-Angel McCoughtry,angel-mccoughtry,201881,LVA,F-G,9/10/1986,6-1in,173,Louisville/USA
-Teaira McCowan,teaira-mccowan,1629479,IND,C,9/28/1996,6-7in,NA,Mississippi State/USA
-Emma Meesseman,emma-meesseman,203416,WAS,F,5/13/1993,6-4in,191,ESB Villeneuve-d'Ascq/Belgium
-Kelsey Mitchell,kelsey-mitchell,1628909,IND,G,11/12/1995,5-8in,160,Ohio State/USA
-Leilani Mitchell,leilani-mitchell,201507,WAS,G,6/15/1985,5-5in,138,Utah/USA
-Tiffany Mitchell,tiffany-mitchell,1627676,IND,G,9/23/1994,5-9in,152,South Carolina/USA
-Beatrice Mompremier,beatrice-mompremier,1629492,CON,NA,8/8/1996,6-4in,190,Miami/USA
-Kaleena Mosqueda-Lewis,kaleena-mosqueda-lewis,204321,CON,F,11/3/1993,5-11in,180,Connecticut/USA
-Astou Ndour,astou-ndour,203838,CHI,C-F,8/22/1994,6-5in,150,/Spain
-Kia Nurse,kia-nurse,1628915,PHO,G,2/22/1996,6-0in,168,Connecticut/Canada
-Leaonna Odom,leaonna-odom,1630127,NYL,NA,3/26/1998,6-2in,168,Duke/USA
-Arike Ogunbowale,arike-ogunbowale,1629481,DAL,G,3/2/1997,5-8in,165,Notre Dame/USA
-Chiney Ogwumike,chiney-ogwumike,203823,LAS,F-C,3/22/1992,6-4in,173,Stanford/USA
-Nneka Ogwumike,nneka-ogwumike,203014,LAS,F,7/2/1990,6-2in,174,Stanford/USA
-Candace Parker,candace-parker,201496,CHI,F-C,4/19/1986,6-4in,175,Tennessee/USA
-Cheyenne Parker,cheyenne-parker,204323,ATL,F,8/22/1992,6-4in,193,Middle Tennessee/USA
-Shey Peddy,shey-peddy,203035,PHO,G,10/28/1988,5-7in,147,Temple/USA
-Theresa Plaisance,theresa-plaisance,203849,WAS,F,5/18/1992,6-5in,200,Louisiana State/USA
-Aerial Powers,aerial-powers,1627672,MIN,F-G,1/17/1994,5-9in,159,Michigan State/USA
-Alexis Prince,alexis-prince,1628297,CHI,G,2/5/1994,6-2in,178,Baylor/USA
-Epiphanny Prince,epiphanny-prince,202259,SEA,G,1/11/1988,5-9in,179,Rutgers/USA
-Allie Quigley,allie-quigley,201516,CHI,G,6/20/1986,5-10in,140,DePaul/USA
-Danielle Robinson,danielle-robinson,202658,IND,G,5/10/1989,5-9in,137,Oklahoma/USA
-Sugar Rodgers,sugar-rodgers,203411,LVA,G,12/8/1989,5-9in,161,Georgetown /USA
-Tierra Ruffin-Pratt,tierra-ruffin-pratt,203437,LAS,G,4/11/1991,5-11in,180,North Carolina/USA
-Mercedes Russell,mercedes-russell,1628920,SEA,C,7/27/1995,6-6in,195,Tennessee/USA
-Satou Sabally,satou-sabally,1630149,DAL,NA,4/25/1998,6-4in,NA,Oregon/USA
-Katie Lou Samuelson,katie-lou-samuelson,1629478,SEA,F,6/13/1997,6-3in,163,Connecticut/USA
-Kylee Shook,kylee-shook,1630131,NYL,NA,3/18/1998,6-4in,200,Louisville/USA
-Odyssey Sims,odyssey-sims,203824,ATL,G,7/13/1992,5-8in,163,NA
-Kamiah Smalls,kamiah-smalls,1630154,CON,NA,4/17/1998,5-10in,NA,USA/USA
-Alanna Smith,alanna-smith,1629501,PHO,F,9/10/1996,6-4in,180,Stanford/Australia
-Azura Stevens,azura-stevens,1628922,CHI,F-C,2/1/1996,6-6in,180,Connecticut/USA
-Breanna Stewart,breanna-stewart,1627668,SEA,F,8/27/1994,6-4in,170,Connecticut/USA
-Kiah Stokes,kiah-stokes,204329,NYL,C,3/30/1993,6-3in,191,Connecticut/USA
-Shekinna Stricklen,shekinna-stricklen,203015,ATL,F,7/30/1990,6-2in,230,Tennessee/USA
-Sug Sutton,sug-sutton,1630134,WAS,NA,12/17/1998,5-8in,NA,Texas/USA
-Carolyn Swords,carolyn-swords,202670,LVA,C,7/19/1989,6-6in,215,Boston College/USA
-Brittney Sykes,brittney-sykes,1628279,LAS,G,2/7/1994,5-9in,154,Syracuse/USA
-Diana Taurasi,diana-taurasi,100940,PHO,G,6/11/1982,6-0in,163,Connecticut/USA
-Alyssa Thomas,alyssa-thomas,203826,CON,F,4/12/1992,6-2in,185,Maryland/USA
-Jasmine Thomas,jasmine-thomas,202662,CON,G,9/30/1989,5-9in,143,Duke/USA
-Kayla Thornton,kayla-thornton,203866,DAL,F,10/20/1992,6-1in,190,Texas-El Paso/USA
-Brianna Turner,brianna-turner,1629488,PHO,F,7/5/1996,6-3in,170,Notre Dame/USA
-Courtney Vandersloot,courtney-vandersloot,202664,CHI,G,2/8/1989,5-8in,145,Gonzaga/USA
-Kia Vaughn,kia-vaughn,201913,PHO,C,1/24/1987,6-4in,205,Rutgers/USA
-Victoria Vivians,victoria-vivians,1628927,IND,G,11/17/1994,6-1in,183,Mississippi State/USA
-Megan Walker,megan-walker,1630136,PHO,NA,11/23/1998,6-1in,175,Connecticut/USA
-Shatori Walker-Kimbrough,shatori-walker-kimbrough,1628278,ATL,G,5/18/1995,5-9in,140,Maryland/USA
-Avery Warley-Talbert,avery-warley-talbert,203069,LVA,C,5/17/1987,6-3in,202,Liberty/USA
-Erica Wheeler,erica-wheeler,204365,LAS,G,5/2/1991,5-7in,143,Rutgers/USA
-Sami Whitcomb,sami-whitcomb,1628244,NYL,G,7/20/1988,5-10in,145,Washington/USA
-Sydney Wiese,sydney-wiese,1628282,LAS,G,6/16/1995,6-0in,165,Oregon State/USA
-Courtney Williams,courtney-williams,1627675,ATL,G,5/11/1994,5-8in,133,South Florida/USA
-Elizabeth Williams,elizabeth-williams,204322,ATL,C-F,6/23/1993,6-3in,200,Duke/USA
-Gabby Williams,gabby-williams,1628931,CHI,F,9/9/1996,5-11in,172,Connecticut/USA
-Riquna Williams,riquna-williams,203029,LVA,G,5/28/1990,5-7in,165,Miami/USA
-Jocelyn Willoughby,jocelyn-willoughby,1630139,NYL,NA,3/25/1998,6-0in,180,Virginia/USA
-A'ja Wilson,aja-wilson,1628932,LVA,F,8/8/1996,6-4in,195,South Carolina/USA
-Jackie Young,jackie-young,1629498,LVA,G,9/16/1997,6-0in,165,Notre Dame/USA
-Amanda Zahui B.,amanda-zahui-b.,204320,LAS,C,9/8/1993,6-5in,184,Minnesota/Sweden
+Candice Dupree,candice-dupree,200676,SEA,F,8/16/1984,6-2in,178,TEMPLE/USA
+Mikiah Herbert Harrigan,mikiah-herbert-harrigan,1630114,SEA,F,8/21/1998,6-2in,152,SOUTH CAROLINA/ANGUILLA
+Jewell Loyd,jewell-loyd,204319,SEA,G,10/5/1993,5-10in,148,NOTRE DAME/USA
+Ezi Magbegor,ezi-magbegor,1629496,SEA,C,8/13/1999,6-4in,176,AUSTRALIA/AUSTRALIA
+Epiphanny Prince,epiphanny-prince,202259,SEA,G,1/11/1988,5-9in,179,RUTGERS/USA
+Mercedes Russell,mercedes-russell,1628920,SEA,C,7/27/1995,6-6in,195,TENNESSEE/USA
+Katie Lou Samuelson,katie-lou-samuelson,1629478,SEA,F,6/13/1997,6-3in,163,CONNECTICUT/USA
+Breanna Stewart,breanna-stewart,1627668,SEA,F,8/27/1994,6-4in,170,CONNECTICUT/USA
+Ariel Atkins,ariel-atkins,1628878,WAS,G,7/30/1996,5-8in,167,TEXAS-AUSTIN/USA
+Tina Charles,tina-charles,202250,WAS,C,12/5/1988,6-4in,192,CONNECTICUT/USA
+Natasha Cloud,natasha-cloud,204333,WAS,G,2/22/1992,5-9in,160,ST. JOSEPH'S (PA)/USA
+Myisha Hines-Allen,myisha-hines-allen,1628899,WAS,F,5/30/1996,6-1in,200,LOUISVILLE/USA
+Stella Johnson,stella-johnson,1630118,WAS,G,7/11/1998,5-10in,158,RIDER/USA
+Kiara Leslie,kiara-leslie,1629506,WAS,G,12/6/1995,6-0in,175,NORTH CAROLINA STATE/USA
+Erica McCall,erica-mccall,1628286,WAS,F,8/21/1995,6-2in,184,STANFORD/USA
+Leilani Mitchell,leilani-mitchell,201507,WAS,G,6/15/1985,5-5in,138,UTAH/USA
+Theresa Plaisance,theresa-plaisance,203849,WAS,F,5/18/1992,6-5in,200,LOUISIANA STATE/USA
+Sydney Wiese,sydney-wiese,1628282,WAS,G,6/16/1995,6-0in,165,OREGON STATE/USA
+Crystal Bradford,crystal-bradford,,ATL,NA,11/1/1993,NA,NA,CENTRAL MICHIGAN/USA
+Tiffany Hayes,tiffany-hayes,,ATL,G,9/20/1989,5-10in,155,CONNECTICUT/USA
+Aari McDonald,aari-mcdonald,,ATL,G,8/20/1998,5-6in,NA,ARIZONA/USA
+Shyla Heal,shyla-heal,,CHI,G,9/19/2001,5-6in,NA,TOWNSVILLE/AUSTRALIA
+Astou Ndour-Fall,astou-ndour-fall,,CHI,C-F,8/22/1994,6-5in,162,GRAN CANARIA/SPAIN
+Stephanie Watts,stephanie-watts,,CHI,G,4/12/1997,5-11in,160,NORTH CAROLINA/USA
+Charli Collier,charli-collier,,DAL,F-C,9/22/1999,6-5in,188,TEXAS-AUSTIN/USA
+Chelsea Dungee,chelsea-dungee,,DAL,G,5/11/1997,5-10in,165,ARKANSAS/USA
+Dana Evans,dana-evans,,DAL,G,8/1/1998,5-6in,145,LOUISVILLE/USA
+Awak Kuier,awak-kuier,,DAL,C,8/19/2001,6-4in,NA,RAGUSA/FINLAND
+DiJonai Carrington,dijonai-carrington,,CON,G-F,1/8/1998,5-11in,175,BAYLOR/USA
+Aleah Goodman,aleah-goodman,,CON,G,11/24/1998,5-9in,152,OREGON STATE/USA
+Jonquel Jones,jonquel-jones,,CON,F,1/5/1994,6-6in,190,GEORGE WASHINGTON/USA
+Stephanie Jones,stephanie-jones,,CON,F,7/10/1998,6-2in,NA,MARYLAND/USA
+Jessica Breland,jessica-breland,,IND,F,2/23/1988,6-2in,166,NORTH CAROLINA/USA
+Kysre Gondrezick,kysre-gondrezick,,IND,G,7/27/1997,5-9in,150,WEST VIRGINIA/USA
+Bernadett Hatar,bernadett-hatar,,IND,C,8/24/1994,6-10in,NA,SOPRON/HUNGARY
+Jantel Lavender,jantel-lavender,,IND,F,11/12/1988,6-4in,185,OHIO STATE/USA
+Chelsey Perry,chelsey-perry,,IND,F,6/7/1999,6-2in,164,TENNESSEE-MARTIN/USA
+Aaliyah Wilson,aaliyah-wilson,,IND,G,8/28/1998,5-10in,172,TEXAS A&M/USA
+JiSu Park,jisu-park,,LVA,C,12/6/1998,6-5in,206,CHEONGJU/SOUTH KOREA
+Kelsey Plum,kelsey-plum,,LVA,G,8/24/1994,5-8in,145,WASHINGTON/USA
+Destiny Slocum,destiny-slocum,,LVA,G,9/9/1997,5-7in,157,ARKANSAS/USA
+Arella Guirantes,arella-guirantes,,LAS,G,10/15/1997,5-11in,165,RUTGERS/USA
+Kristi Toliver,kristi-toliver,,LAS,G,1/27/1987,5-7in,130,MARYLAND/USA
+Maria Vadeeva,maria-vadeeva,,LAS,C,7/16/1998,6-4in,185,DYNAMO KURSK/RUSSIA
+Jasmine Walker,jasmine-walker,,LAS,F,2/3/1998,6-3in,182,ALABAMA/USA
+Amanda Zahui B,amanda-zahui b,,LAS,C,9/8/1993,6-5in,184,MINNESOTA/SWEDEN
+Rennia Davis,rennia-davis,,MIN,G-F,2/24/1999,6-1in,170,TENNESSEE/USA
+Linnae Harper,linnae-harper,,MIN,G,1/31/1995,5-7in,160,OHIO STATE/USA
+Jessica Shepard,jessica-shepard,,MIN,F,9/11/1996,6-4in,175,NOTRE DAME/USA
+Rebecca Allen,rebecca-allen,,NYL,G,11/6/1992,6-2in,162,AUSTRALIA/AUSTRALIA
+Michaela Onyenwere,michaela-onyenwere,,NYL,F,8/10/1999,6-0in,178,UCLA/USA
+DiDi Richards,didi-richards,,NYL,G-F,2/8/1999,6-2in,164,BAYLOR/USA
+Stephanie Talbot,stephanie-talbot,,SEA,F,6/15/1994,6-2in,192,AUSTRALIA/AUSTRALIA
+Kiana Williams,kiana-williams,,SEA,G,4/9/1999,5-8in,135,STANFORD/USA
+Jillian Alleyne,jillian-alleyne,,WAS,C-F,9/8/1994,6-2in,193,OREGON/USA
+Elena Delle Donne,elena-delle donne,,WAS,F-G,9/5/1989,6-5in,187,DELAWARE/USA
+Shavonte Zellous,shavonte-zellous,,WAS,G,8/28/1986,5-10in,188,PITTSBURGH/USA
